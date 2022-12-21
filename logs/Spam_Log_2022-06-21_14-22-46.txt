@@ -1,0 +1,1208 @@
+----------- YouTube Spammer Purge Log File -----------
+
+Video(s) or Post(s) Scanned: ChX_g8LIfZM
+
+Automatic Search Mode: Smart Mode 
+
+Number of Matched Comments Found: 131
+
+Number of Spam Bot Threads Found: 0
+
+Number of Non-Matched, but Duplicate Comments Found: 0
+
+Number of Non-Matched, but Stolen / Reposted Comments Found: 0
+
+IDs of Matched Comments Found: 
+[ UgwtZWzRSj_hOdg1bRZ4AaABAg.9argUiEmWdN9auAqgNYASh, UgzwDlRm38DwGjQR6OR4AaABAg.9arfbv7Ky0n9auAsTVBfc4, UgxbA60pakQOgTo_gm14AaABAg.9ap8hbEXclI9auAteGF6Io, UgwOZp6gNXITNpuxmgV4AaABAg.9alWExNkklA9auAv6MUVUx, UgylNuuzfQzxVxx3fKx4AaABAg.9al53Yt9C-89auAxbdW4pr, UgwHiGcoD9qYqEz1KDR4AaABAg.9aisqWHat_O9auAyk5CVFG, UgySp_TFuOKMgZl9f2J4AaABAg.9ahNo2L5tig9auAzjMA-VB, UgwjqwNUa4f0WKgcAfB4AaABAg.9afzt_8csYP9auB-wMSki4, UgxLlcknbcNoOQUnUHB4AaABAg.9aaulr3hPng9auB0tFmI83, Ugywa0goN637NA-k4mR4AaABAg.9aaPaSp60Wy9auB1u9FPmQ, UgzfWtBpPUBNeCgRvcN4AaABAg.9a_e6YFKGgV9auB3T_ueWi, Ugz7QomCW5wQFUsr96F4AaABAg.9aZl5lqev999auB4PO2ei6, UgzOFQ8KSs3nWGTtj3h4AaABAg.9aXjKD58g2t9auB5TnDZzQ, UgxKUo5P_bCfbjs-Ov14AaABAg.9aXgkdEwUi99auB7z5uVko, Ugyb0GoMESbYl0slTEl4AaABAg.9aXIW0_V3P79auBDTm0vQ4, Ugxghh30bm532qSeCQJ4AaABAg.9aWwD_A2HyW9auBFf8qDhA, UgwV4-b4JCnKFl9nWE54AaABAg.9aWs-0JFwoB9auBHogE8pe, UgzFksb3wKJE2p-MKLl4AaABAg.9aVTA84q8el9auBJpe2kYY, UgxvVt8EJr5QxcwDIwN4AaABAg.9aU3dozd0yg9auBLCT44Bz, Ugww8vsqnBQFpPnp6f94AaABAg.9aStt4DJIm59auBM8p-8Lg, UgxTIpVWF-sq9gZHbTZ4AaABAg.9aSCByrD3wY9auBNDal1Xz, Ugzog48OeNxtWuLalMJ4AaABAg.9aPvO1_f6aC9auBONrrebo, UgwLcEtyMT3V5MPes854AaABAg.9aKyOFvJURj9auBR-sE0sX, Ugz_dM5YTJeZKnq7AUN4AaABAg.9aIbL5skhaL9auBS0i6Kcr, UgxUQf44Fv7oh2vSpbN4AaABAg.9aFbhsYtfEm9auBTsDXPTG, UgzjEBd3uRir1slGNZx4AaABAg.9aEiUpYHBNX9auBUxTDwjF, UgwuBab-5IUlhOw6Jct4AaABAg.9aEfkj9xMFA9auBVyofNrI, UgwFGYDkW_bVkPbnDhV4AaABAg.9a5Vjag0PRL9auBXJtZruW, UgwrZh2YoEYEaJYY4Op4AaABAg.9a4jsLi5Z9g9auBYg5uplD, Ugw0ZysMZAQmielqKhx4AaABAg.9a43jOkqJ8u9auB_HBm94S, Ugzk1Q5kU7zJBTQNzr14AaABAg.9a-bF57qmuA9auBaGzU-mJ, UgwwbUKgUp1GudmBxMh4AaABAg.9_xQpuRrHOK9auBdm368R3, Ugxna1JQzudG9Z_Ac-N4AaABAg.9_xGpUSVx0Z9auBet0A6T4, UgycbccWLYIsH1FpyyN4AaABAg.9_xE0Z72QBS9auBfs9ESxx, Ugyz-zH21OepmJszqK54AaABAg.9_wBoTCClY29auDmw5CO1S, UgwfN8XIHQGm8C8be-F4AaABAg.9_uixKPSDQw9auDu88kUCb, UgyL4stJHMVPuI89kTR4AaABAg.9_tINTCsY4f9auDwp6sEru, UgxiK0RXKSe5z6accNJ4AaABAg.9_nxmlLEnat9auE1mGzI0P, UgxqIk3MSOzguVVFby54AaABAg.9_kj47xaR7e9auE2uRAnWi, Ugye1zqaQ00w9qkRqPN4AaABAg.9_jzqS_9O6A9auE47jJkHE, Ugy1PTsJuye1dq3qUrx4AaABAg.9_jmFtC-l-o9auE5pU874D, UgxEgcWHH9k1ECXeCIh4AaABAg.9_idi-DxM6N9auE7DjI4bW, UgzbEMrYNjbNOaDkRaV4AaABAg.9_iHsrqbMrg9auE8PR2Fvg, Ugx9b70mlKMjZUIdQeV4AaABAg.9_hRmSsHy5c9auEB5qsF_k, Ugz--y8E6n_jcinWtdh4AaABAg.9__IlCzIQg49__KUdcTUV7, UgwxBtcKiUVF7MSOTzJ4AaABAg.9__CBHcK8XK9__FZNI7_bs, UgyF9eXzqV0vOQmlrI14AaABAg.9__2mju85Lc9__Fa8qbeGv, UgyLxK9KSA--lf-AzZx4AaABAg.9_ZpMdpkSpA9__FbKjD8xt, UgwSUaufvDveLG6wHSV4AaABAg.9_ZVlQcXzEU9__FcHbVGiC, Ugz9P-F1Y0DT-nIcJIh4AaABAg.9_ZR140HVUj9__FdKFsed9, UgyrfKU0yowRPdVr2BB4AaABAg.9_ZOpmkdadW9__FeIl0nlZ, Ugylnrd39G6Iq97lX8N4AaABAg.9_Z4p8rSsgP9__FfJcAeRp, UgxqyTMpZR4BycabU4t4AaABAg.9_YyW8QeRat9__FgUe4qOE, UgxO31G9hDLSlG2tj8p4AaABAg.9_YqCpHzais9__Fh_jgbkC, UgzEHtU7YidVXt5GBE54AaABAg.9_YmqEDoIoL9__Fip3LfAX, UgzcLXtsbEESrVP3acN4AaABAg.9_YH3uYVBUq9__Fjr_zUyo, Ugxg_--_3yGSOxZxhRV4AaABAg.9_Y2WBziqSU9__FlJCUDX1, Ugz6rw088uTe9RXynSV4AaABAg.9_XoM0K9Axg9__FmmpUAT2, UgyhvzkzEUS68LaGSdl4AaABAg.9_Xk9zlgarK9__FoIVXaWH, UgyMNjTb3ghhNdhbDy54AaABAg.9_XeYF9UBUx9__FqRMSosD, UgzSfCv-fVe7TGioGdN4AaABAg.9_XYpVzKK0i9__Fs60nfNs, Ugyd1vvNgaTRmriOa054AaABAg.9_XVfH7UCbR9__FtY39FUa, Ugylcooq6tCelBeCHUp4AaABAg.9_XVK3fvtxx9__G2Ea-DIM, UgyRygmGLaKJYiosXAh4AaABAg.9_XSxBijNuE9__G0KOaQBT, Ugwv6qPdQUfBM4WO_554AaABAg.9_XSFk5oxWC9__G5yngsaf, UgzpCMhBmF6IQaozazx4AaABAg.9_XOB6UgctN9__GA866_xQ, Ugw4HLqxoh2kGCAn1x94AaABAg.9_X3ox5vcF09__GClhQSOD, UgwIfPnH_LHH9tkKdOh4AaABAg.9_X-VuyORSV9__GZGJwPIX, Ugw4hhnErVwScI2uhF14AaABAg.9_WxidfcP2a9__HoPBC2CL, Ugyffnvj2eVhYjMpPO54AaABAg.9_WtLzVQQO79__IHCMQzf9, Ugz26TI5vwZncKyRUGR4AaABAg.9_WsSdzA0KO9__IJ8X2nIx, UgyGtljKz4vlzY-SSJN4AaABAg.9_WiTcJ-j5w9__IKhytyET, UgwHAf_uaJ4DPkDz9mx4AaABAg.9_WfXqvDbkL9__IM9V2nUP, UgwoQCqCnQyVWFFfVax4AaABAg.9_WfMdXTOdJ9__IOL2Ajzd, UgwB36HI3phGhvnmXzZ4AaABAg.9_W_UdR6uQI9__IQHzs8v-, UgwAI7k-zzYDtQkJfYN4AaABAg.9_WY0BPk4Ic9__IYJ0sZMy, UgxNXf4NEXJ066nA54x4AaABAg.9_WUKk9AelZ9__IZuihVJi, UgwJV582GOCGHiHVoVl4AaABAg.9_WTBy4sb4X9__IeyXouW3, UgyRiq7w58vzm9ICjKx4AaABAg.9_WT1nF-TZK9__IgY_sQ58, UgyUvaha7qhoCIeLPHh4AaABAg.9_WSKRWD_Xi9__Ii2q-TP3, UgxI9EQWN0ls2hiXftZ4AaABAg.9_WS8nGAjaE9__IlOcWrIW, Ugw00BQu4efxmSaWzrp4AaABAg.9_WIvSXR2v49__Isc3msi1, Ugynj886zay_tZQw1wJ4AaABAg.9_W7A36MobX9__J-OHvhhB, Ugz5F-8L7LAA_8G_bQZ4AaABAg.9_W5AT0Eu919__J4Ijmy0a, UgxPy8XPAtqrpX_EKit4AaABAg.9_VwkmZ-_LI9__JE1EfkZ8, UgzgbEqG1PKNCUkxnU54AaABAg.9_Vwil_5hTn9__JISUbtBE, UgzLdJF0m4h_mdRf2A94AaABAg.9_Vt5uhMfPN9__JKBqxVas, UgwPHc_t4LDQ7oFYoal4AaABAg.9_Vs-l8FfNw9__JLiE0bLL, UgwcfrSIXS50-AYZbSt4AaABAg.9_VgIwxIwiz9__JNJjYs55, UgwTw9p3dqvUf177wHF4AaABAg.9_VUlunM4m09__JP8AOM87, UgzTDgvu-hIxfc_KPbB4AaABAg.9_VNQiwB4St9__JZIu8Ln_, UgwanoaxxDUBXaka1jR4AaABAg.9_VLa-ttjvd9__JbDpyu4o, UgyIoav_K1EuasGjif94AaABAg.9_VLYv7MCUG9__JddYspfl, Ugxf55L82jo9FUoH2NV4AaABAg.9_VLYMfixC29__JfS4TYeJ, Ugx5hROfgraUXuGe8Il4AaABAg.9_VIh09Tu8W9__JggcRj9p, UgyjbjMEbs_TnKjc5dt4AaABAg.9_VELt3JjUD9__Jj28traY, UgyqJIb0C26axoXhIwt4AaABAg.9_V9os6O6Z69__Jlq9saRQ, Ugyiongv7WNPQKTQ1W14AaABAg.9_V5QcLmw-h9__K4gPzOPN, UgwTai59vgdSMFdLOCd4AaABAg.9_V4nVqOe6I9__KZJzjhL3, UgyE9GrdHNe3twlabst4AaABAg.9_V43oTycPf9__K_QdAZWy, UgwoKDPr0pZ4XyPjBzp4AaABAg.9_V2hsT8GTR9__KaegFawW, UgwL9CAVWodVwn-iSjF4AaABAg.9_V1iAh4z--9__O-AwpP2N, UgyTfzlmJBBx-3bELu94AaABAg.9_V0Xiw1EEA9__O1xTJ89p, Ugz-qEzhV2N2APygTiZ4AaABAg.9_Ux6hLBaA39__ONaTkdSo, UgwoWYJqIZ_FSdrYnHx4AaABAg.9_UvxOqOIC_9__OYTFGEg9, Ugwt7d3tooE56v_SAG94AaABAg.9_UvVd9eyME9__OcqbtvVy, UgympmoXaO1evTwboMx4AaABAg.9_Uu0b7zXkS9__OfR3RTDE, UgwGH35U9LvwZSLZI0l4AaABAg.9_Ut2SPe5yU9__OgyVadQa, UgybtwSq91a1a06pbAp4AaABAg.9_Upql9vi1L9__OiJdbYeq, Ugz-_BPuQclbWbhYgm54AaABAg.9_UpFkzD0oy9__OjYYjaJe, UgxBtBVGirY3ekJ8Gth4AaABAg.9_Uosg8Kt239__OkbYSgXu, UgyWkMVxFXzAOsbiE2t4AaABAg.9_UoLXjMEeH9__OlzX7mde, UgwOkbVo45WWK4b5qxB4AaABAg.9_Unm0yP8hg9__OnBAVHi7, UgwDIzDDYgYBZS1nt_Z4AaABAg.9_UmrlQPdXm9__OonyIz9S, Ugzvm4WfvGR11x9WbYB4AaABAg.9_Uk6PzOfR79__Owapmi1f, UgyjtBD-ttKVSW3Ngel4AaABAg.9_UhUgl4lmG9__P1ZGa4e5, Ugw1HocgKlSjIj5VG5p4AaABAg.9_UhDumPfEz9__P3ajqk4q, UgzjMje2pcMnc8_ijMN4AaABAg.9_Ugo5o7nDg9__P4vMMD6M, UgwBv5A1A3UbxgxUEHp4AaABAg.9_Uga2nkUkJ9__P6M6FQ_u, UgxuAkc-xYuEhzR7pqp4AaABAg.9_UgVun3nHg9__PCKCwOk7, Ugxcvr-4F_oeimH82s54AaABAg.9_UgVBI3e169__PIDryWo4, UgxlFJhfVKboLn1CfaV4AaABAg.9_UeewAb6xA9__PPrG-R3M, Ugx047ITZT6h0nSY6dB4AaABAg.9_UeNURJk1U9__PWERUuhK, Ugz7cqj-yCoI_40rBFd4AaABAg.9_UdzKE_5HA9__Pfvd2ipL, UgwEdyaro9Tgoy1VrYV4AaABAg.9_Uct82mtHV9__PqMYHyLb, Ugz4KFTNFqBGzxLFk2Z4AaABAg.9_UcLMPVrCc9__PsJrFw9b, UgzpzOEYb81Fs1O0GAR4AaABAg.9_Ua3TO9N-A9__PtjhW4Gi, UgyZLcPmEXhQkI5VQMB4AaABAg.9_U_JXU-S3E9__Q2Zf-2mN, UgwZ_cEXMV8pZEhAQyl4AaABAg.9_U_GjsoJVD9__Q4Kot9rm, Ugw6qvGn6P-8K98fE0t4AaABAg.9_UZwZjguze9__Q5_Rdc_Q, UgzdsWUX9F9hAh-isYZ4AaABAg.9_UZIAbsHGn9__Q8uFVa3V ] 
+
+
+1. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:10:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwtZWzRSj_hOdg1bRZ4AaABAg.9argUiEmWdN9auAqgNYASh
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+2. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:11:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzwDlRm38DwGjQR6OR4AaABAg.9arfbv7Ky0n9auAsTVBfc4
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+3. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:11:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxbA60pakQOgTo_gm14AaABAg.9ap8hbEXclI9auAteGF6Io
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+4. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:11:33 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwOZp6gNXITNpuxmgV4AaABAg.9alWExNkklA9auAv6MUVUx
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+5. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:11:54 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgylNuuzfQzxVxx3fKx4AaABAg.9al53Yt9C-89auAxbdW4pr
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+6. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwHiGcoD9qYqEz1KDR4AaABAg.9aisqWHat_O9auAyk5CVFG
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+7. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgySp_TFuOKMgZl9f2J4AaABAg.9ahNo2L5tig9auAzjMA-VB
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+8. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:21 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwjqwNUa4f0WKgcAfB4AaABAg.9afzt_8csYP9auB-wMSki4
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+9. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxLlcknbcNoOQUnUHB4AaABAg.9aaulr3hPng9auB0tFmI83
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+10. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugywa0goN637NA-k4mR4AaABAg.9aaPaSp60Wy9auB1u9FPmQ
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+11. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:50 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzfWtBpPUBNeCgRvcN4AaABAg.9a_e6YFKGgV9auB3T_ueWi
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+12. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:12:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz7QomCW5wQFUsr96F4AaABAg.9aZl5lqev999auB4PO2ei6
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+13. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:13:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzOFQ8KSs3nWGTtj3h4AaABAg.9aXjKD58g2t9auB5TnDZzQ
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+14. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️❤ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:13:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxKUo5P_bCfbjs-Ov14AaABAg.9aXgkdEwUi99auB7z5uVko
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+15. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️❤ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:14:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugyb0GoMESbYl0slTEl4AaABAg.9aXIW0_V3P79auBDTm0vQ4
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+16. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️❤ 👉Hit me up 🤝🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:14:30 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugxghh30bm532qSeCQJ4AaABAg.9aWwD_A2HyW9auBFf8qDhA
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+17. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:14:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwV4-b4JCnKFl9nWE54AaABAg.9aWs-0JFwoB9auBHogE8pe
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+18. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:15:04 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzFksb3wKJE2p-MKLl4AaABAg.9aVTA84q8el9auBJpe2kYY
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+19. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:15:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxvVt8EJr5QxcwDIwN4AaABAg.9aU3dozd0yg9auBLCT44Bz
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+20. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:15:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugww8vsqnBQFpPnp6f94AaABAg.9aStt4DJIm59auBM8p-8Lg
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+21. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:15:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxTIpVWF-sq9gZHbTZ4AaABAg.9aSCByrD3wY9auBNDal1Xz
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+22. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:15:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugzog48OeNxtWuLalMJ4AaABAg.9aPvO1_f6aC9auBONrrebo
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+23. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:16:03 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwLcEtyMT3V5MPes854AaABAg.9aKyOFvJURj9auBR-sE0sX
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+24. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:16:11 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz_dM5YTJeZKnq7AUN4AaABAg.9aIbL5skhaL9auBS0i6Kcr
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+25. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:16:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxUQf44Fv7oh2vSpbN4AaABAg.9aFbhsYtfEm9auBTsDXPTG
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+26. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:16:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzjEBd3uRir1slGNZx4AaABAg.9aEiUpYHBNX9auBUxTDwjF
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+27. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:16:44 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwuBab-5IUlhOw6Jct4AaABAg.9aEfkj9xMFA9auBVyofNrI
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+28. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:16:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwFGYDkW_bVkPbnDhV4AaABAg.9a5Vjag0PRL9auBXJtZruW
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+29. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:17:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwrZh2YoEYEaJYY4Op4AaABAg.9a4jsLi5Z9g9auBYg5uplD
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+30. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:17:19 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugw0ZysMZAQmielqKhx4AaABAg.9a43jOkqJ8u9auB_HBm94S
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+31. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:17:27 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugzk1Q5kU7zJBTQNzr14AaABAg.9a-bF57qmuA9auBaGzU-mJ
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+32. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:17:56 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwwbUKgUp1GudmBxMh4AaABAg.9_xQpuRrHOK9auBdm368R3
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+33. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:18:05 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugxna1JQzudG9Z_Ac-N4AaABAg.9_xGpUSVx0Z9auBet0A6T4
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+34. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝🤝❤
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:18:13 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgycbccWLYIsH1FpyyN4AaABAg.9_xE0Z72QBS9auBfs9ESxx
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+35. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up 🤝
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:36:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugyz-zH21OepmJszqK54AaABAg.9_wBoTCClY29auDmw5CO1S
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+36. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:37:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwfN8XIHQGm8C8be-F4AaABAg.9_uixKPSDQw9auDu88kUCb
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+37. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:38:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyL4stJHMVPuI89kTR4AaABAg.9_tINTCsY4f9auDwp6sEru
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+38. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:38:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxiK0RXKSe5z6accNJ4AaABAg.9_nxmlLEnat9auE1mGzI0P
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+39. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:38:58 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxqIk3MSOzguVVFby54AaABAg.9_kj47xaR7e9auE2uRAnWi
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+40. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:39:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugye1zqaQ00w9qkRqPN4AaABAg.9_jzqS_9O6A9auE47jJkHE
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+41. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:39:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugy1PTsJuye1dq3qUrx4AaABAg.9_jmFtC-l-o9auE5pU874D
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+42. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:39:34 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxEgcWHH9k1ECXeCIh4AaABAg.9_idi-DxM6N9auE7DjI4bW
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+43. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:39:43 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzbEMrYNjbNOaDkRaV4AaABAg.9_iHsrqbMrg9auE8PR2Fvg
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+44. telegram me👉 @UKtechspurt👈:  ♐Thanks for watching♥️ 👉Hit me up
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: May 11, 2022 @ 09:40:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugx9b70mlKMjZUIdQeV4AaABAg.9_hRmSsHy5c9auEB5qsF_k
+     > Author Channel ID: UCxfyLAwyp8mI7c6OaTij1rg
+=============================================================================================
+
+
+45. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:19:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz--y8E6n_jcinWtdh4AaABAg.9__IlCzIQg49__KUdcTUV7
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+46. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:36:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwxBtcKiUVF7MSOTzJ4AaABAg.9__CBHcK8XK9__FZNI7_bs
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+47. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:36:56 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyF9eXzqV0vOQmlrI14AaABAg.9__2mju85Lc9__Fa8qbeGv
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+48. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyLxK9KSA--lf-AzZx4AaABAg.9_ZpMdpkSpA9__FbKjD8xt
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+49. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwSUaufvDveLG6wHSV4AaABAg.9_ZVlQcXzEU9__FcHbVGiC
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+50. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz9P-F1Y0DT-nIcJIh4AaABAg.9_ZR140HVUj9__FdKFsed9
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+51. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:30 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyrfKU0yowRPdVr2BB4AaABAg.9_ZOpmkdadW9__FeIl0nlZ
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+52. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugylnrd39G6Iq97lX8N4AaABAg.9_Z4p8rSsgP9__FfJcAeRp
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+53. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxqyTMpZR4BycabU4t4AaABAg.9_YyW8QeRat9__FgUe4qOE
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+54. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:37:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxO31G9hDLSlG2tj8p4AaABAg.9_YqCpHzais9__Fh_jgbkC
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+55. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:38:08 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzEHtU7YidVXt5GBE54AaABAg.9_YmqEDoIoL9__Fip3LfAX
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+56. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:38:16 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzcLXtsbEESrVP3acN4AaABAg.9_YH3uYVBUq9__Fjr_zUyo
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+57. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:38:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugxg_--_3yGSOxZxhRV4AaABAg.9_Y2WBziqSU9__FlJCUDX1
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+58. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:38:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz6rw088uTe9RXynSV4AaABAg.9_XoM0K9Axg9__FmmpUAT2
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+59. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:38:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyhvzkzEUS68LaGSdl4AaABAg.9_Xk9zlgarK9__FoIVXaWH
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+60. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:39:10 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyMNjTb3ghhNdhbDy54AaABAg.9_XeYF9UBUx9__FqRMSosD
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+61. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:39:24 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzSfCv-fVe7TGioGdN4AaABAg.9_XYpVzKK0i9__Fs60nfNs
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+62. Text me on Telegram👉@Official_Jetson:  Hit me up👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:39:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugyd1vvNgaTRmriOa054AaABAg.9_XVfH7UCbR9__FtY39FUa
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+63. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:40:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugylcooq6tCelBeCHUp4AaABAg.9_XVK3fvtxx9__G2Ea-DIM
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+64. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:40:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyRygmGLaKJYiosXAh4AaABAg.9_XSxBijNuE9__G0KOaQBT
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+65. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:41:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugwv6qPdQUfBM4WO_554AaABAg.9_XSFk5oxWC9__G5yngsaf
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+66. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:41:59 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzpCMhBmF6IQaozazx4AaABAg.9_XOB6UgctN9__GA866_xQ
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+67. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:42:21 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugw4HLqxoh2kGCAn1x94AaABAg.9_X3ox5vcF09__GClhQSOD
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+68. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:45:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwIfPnH_LHH9tkKdOh4AaABAg.9_X-VuyORSV9__GZGJwPIX
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+69. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 09:56:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugw4hhnErVwScI2uhF14AaABAg.9_WxidfcP2a9__HoPBC2CL
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+70. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:00:26 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugyffnvj2eVhYjMpPO54AaABAg.9_WtLzVQQO79__IHCMQzf9
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+71. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:00:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz26TI5vwZncKyRUGR4AaABAg.9_WsSdzA0KO9__IJ8X2nIx
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+72. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:00:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyGtljKz4vlzY-SSJN4AaABAg.9_WiTcJ-j5w9__IKhytyET
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+73. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:01:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwHAf_uaJ4DPkDz9mx4AaABAg.9_WfXqvDbkL9__IM9V2nUP
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+74. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:01:24 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwoQCqCnQyVWFFfVax4AaABAg.9_WfMdXTOdJ9__IOL2Ajzd
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+75. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:01:40 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwB36HI3phGhvnmXzZ4AaABAg.9_W_UdR6uQI9__IQHzs8v-
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+76. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:02:46 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwAI7k-zzYDtQkJfYN4AaABAg.9_WY0BPk4Ic9__IYJ0sZMy
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+77. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:02:59 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxNXf4NEXJ066nA54x4AaABAg.9_WUKk9AelZ9__IZuihVJi
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+78. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:03:49 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwJV582GOCGHiHVoVl4AaABAg.9_WTBy4sb4X9__IeyXouW3
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+79. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:04:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyRiq7w58vzm9ICjKx4AaABAg.9_WT1nF-TZK9__IgY_sQ58
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+80. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:04:14 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyUvaha7qhoCIeLPHh4AaABAg.9_WSKRWD_Xi9__Ii2q-TP3
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+81. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:04:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxI9EQWN0ls2hiXftZ4AaABAg.9_WS8nGAjaE9__IlOcWrIW
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+82. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:05:41 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugw00BQu4efxmSaWzrp4AaABAg.9_WIvSXR2v49__Isc3msi1
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+83. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:06:44 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugynj886zay_tZQw1wJ4AaABAg.9_W7A36MobX9__J-OHvhhB
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+84. Text me on Telegram👉@Official_Jetson:  Hit me up.👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:07:25 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz5F-8L7LAA_8G_bQZ4AaABAg.9_W5AT0Eu919__J4Ijmy0a
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+85. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:08:44 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxPy8XPAtqrpX_EKit4AaABAg.9_VwkmZ-_LI9__JE1EfkZ8
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+86. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:09:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzgbEqG1PKNCUkxnU54AaABAg.9_Vwil_5hTn9__JISUbtBE
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+87. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:09:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzLdJF0m4h_mdRf2A94AaABAg.9_Vt5uhMfPN9__JKBqxVas
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+88. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:09:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwPHc_t4LDQ7oFYoal4AaABAg.9_Vs-l8FfNw9__JLiE0bLL
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+89. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:10:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwcfrSIXS50-AYZbSt4AaABAg.9_VgIwxIwiz9__JNJjYs55
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+90. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:10:15 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwTw9p3dqvUf177wHF4AaABAg.9_VUlunM4m09__JP8AOM87
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+91. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:11:38 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzTDgvu-hIxfc_KPbB4AaABAg.9_VNQiwB4St9__JZIu8Ln_
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+92. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:12:02 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwanoaxxDUBXaka1jR4AaABAg.9_VLa-ttjvd9__JbDpyu4o
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+93. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:12:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyIoav_K1EuasGjif94AaABAg.9_VLYv7MCUG9__JddYspfl
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+94. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:12:37 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugxf55L82jo9FUoH2NV4AaABAg.9_VLYMfixC29__JfS4TYeJ
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+95. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:12:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugx5hROfgraUXuGe8Il4AaABAg.9_VIh09Tu8W9__JggcRj9p
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+96. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:13:06 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyjbjMEbs_TnKjc5dt4AaABAg.9_VELt3JjUD9__Jj28traY
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+97. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:13:29 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyqJIb0C26axoXhIwt4AaABAg.9_V9os6O6Z69__Jlq9saRQ
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+98. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:16:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugyiongv7WNPQKTQ1W14AaABAg.9_V5QcLmw-h9__K4gPzOPN
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+99. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:20:23 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwTai59vgdSMFdLOCd4AaABAg.9_V4nVqOe6I9__KZJzjhL3
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+100. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:20:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyE9GrdHNe3twlabst4AaABAg.9_V43oTycPf9__K_QdAZWy
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+101. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:20:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwoKDPr0pZ4XyPjBzp4AaABAg.9_V2hsT8GTR9__KaegFawW
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+102. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:50:24 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwL9CAVWodVwn-iSjF4AaABAg.9_V1iAh4z--9__O-AwpP2N
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+103. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:50:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyTfzlmJBBx-3bELu94AaABAg.9_V0Xiw1EEA9__O1xTJ89p
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+104. Text me on Telegram👉@Official_Jetson:  Hit me up..👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:53:44 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz-qEzhV2N2APygTiZ4AaABAg.9_Ux6hLBaA39__ONaTkdSo
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+105. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:55:13 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwoWYJqIZ_FSdrYnHx4AaABAg.9_UvxOqOIC_9__OYTFGEg9
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+106. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:55:57 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugwt7d3tooE56v_SAG94AaABAg.9_UvVd9eyME9__OcqbtvVy
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+107. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:56:18 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgympmoXaO1evTwboMx4AaABAg.9_Uu0b7zXkS9__OfR3RTDE
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+108. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:56:31 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwGH35U9LvwZSLZI0l4AaABAg.9_Ut2SPe5yU9__OgyVadQa
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+109. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:56:42 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgybtwSq91a1a06pbAp4AaABAg.9_Upql9vi1L9__OiJdbYeq
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+110. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:56:52 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz-_BPuQclbWbhYgm54AaABAg.9_UpFkzD0oy9__OjYYjaJe
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+111. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:57:01 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxBtBVGirY3ekJ8Gth4AaABAg.9_Uosg8Kt239__OkbYSgXu
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+112. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:57:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyWkMVxFXzAOsbiE2t4AaABAg.9_UoLXjMEeH9__OlzX7mde
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+113. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:57:22 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwOkbVo45WWK4b5qxB4AaABAg.9_Unm0yP8hg9__OnBAVHi7
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+114. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:57:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwDIzDDYgYBZS1nt_Z4AaABAg.9_UmrlQPdXm9__OonyIz9S
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+115. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:58:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugzvm4WfvGR11x9WbYB4AaABAg.9_Uk6PzOfR79__Owapmi1f
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+116. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:59:28 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyjtBD-ttKVSW3Ngel4AaABAg.9_UhUgl4lmG9__P1ZGa4e5
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+117. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:59:44 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugw1HocgKlSjIj5VG5p4AaABAg.9_UhDumPfEz9__P3ajqk4q
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+118. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 10:59:55 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzjMje2pcMnc8_ijMN4AaABAg.9_Ugo5o7nDg9__P4vMMD6M
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+119. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:00:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwBv5A1A3UbxgxUEHp4AaABAg.9_Uga2nkUkJ9__P6M6FQ_u
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+120. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:00:56 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxuAkc-xYuEhzR7pqp4AaABAg.9_UgVun3nHg9__PCKCwOk7
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+121. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:01:44 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugxcvr-4F_oeimH82s54AaABAg.9_UgVBI3e169__PIDryWo4
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+122. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:02:47 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgxlFJhfVKboLn1CfaV4AaABAg.9_UeewAb6xA9__PPrG-R3M
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+123. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:03:39 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugx047ITZT6h0nSY6dB4AaABAg.9_UeNURJk1U9__PWERUuhK
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+124. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:05:07 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz7cqj-yCoI_40rBFd4AaABAg.9_UdzKE_5HA9__Pfvd2ipL
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+125. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:06:32 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwEdyaro9Tgoy1VrYV4AaABAg.9_Uct82mtHV9__PqMYHyLb
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+126. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:06:48 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugz4KFTNFqBGzxLFk2Z4AaABAg.9_UcLMPVrCc9__PsJrFw9b
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+127. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:07:00 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzpzOEYb81Fs1O0GAR4AaABAg.9_Ua3TO9N-A9__PtjhW4Gi
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+128. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:08:20 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgyZLcPmEXhQkI5VQMB4AaABAg.9_U_JXU-S3E9__Q2Zf-2mN
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+129. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:08:35 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgwZ_cEXMV8pZEhAQyl4AaABAg.9_U_GjsoJVD9__Q4Kot9rm
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+130. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:08:45 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=Ugw6qvGn6P-8K98fE0t4AaABAg.9_UZwZjguze9__Q5_Rdc_Q
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+131. Text me on Telegram👉@Official_Jetson:  Hit me up...👆👆👆
+---------------------------------------------------------------------------------------------
+     > Reason: Filter Match
+     > Timestamp: Apr 08, 2022 @ 11:09:12 PM
+     > Direct Link: https://www.youtube.com/watch?v=ChX_g8LIfZM&lc=UgzdsWUX9F9hAh-isYZ4AaABAg.9_UZIAbsHGn9__Q8uFVa3V
+     > Author Channel ID: UCgNwAJ0gLoiTrt8s_syLjtQ
+=============================================================================================
+
+
+==================== Match Samples: One comment per matched-comment author ====================
+ 1.  [x87]  UCgNwAJ0gLoiTrt8s_syLjtQ | Text me on Telegr...: Hit me up..👆👆👆👆                                                                   
+ 2.  [x44]  UCxfyLAwyp8mI7c6OaTij1rg | telegram me👉 @UKt...: ♐Thanks for watching♥ 👉Hit me up 🤝🤝                                               
+
+
+Spammers Banned: False
+
+Action Taken on Comments: Nothing (Log Only)
+
+Also Retrieved All Other Comments by Matched Authors: False
+
